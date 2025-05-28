@@ -1,6 +1,9 @@
 # Molecular-fingerprints-using-Python-and-RDKit
 Molecular fingerprints are binary or count vectors representing a molecule's presence or absence of particular substructures or chemical features.
 
+Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
+
+
 They're used in:
 
 1.Similarity searching (e.g., Tanimoto similarity)
